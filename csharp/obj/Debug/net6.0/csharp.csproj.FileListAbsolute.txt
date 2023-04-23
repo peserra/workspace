@@ -1,0 +1,15 @@
+/home/pedro/Workspace/csharp/obj/Debug/net6.0/csharp.csproj.AssemblyReference.cache
+/home/pedro/Workspace/csharp/obj/Debug/net6.0/csharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/pedro/Workspace/csharp/obj/Debug/net6.0/csharp.AssemblyInfoInputs.cache
+/home/pedro/Workspace/csharp/obj/Debug/net6.0/csharp.AssemblyInfo.cs
+/home/pedro/Workspace/csharp/obj/Debug/net6.0/csharp.csproj.CoreCompileInputs.cache
+/home/pedro/Workspace/csharp/bin/Debug/net6.0/csharp
+/home/pedro/Workspace/csharp/bin/Debug/net6.0/csharp.deps.json
+/home/pedro/Workspace/csharp/bin/Debug/net6.0/csharp.runtimeconfig.json
+/home/pedro/Workspace/csharp/bin/Debug/net6.0/csharp.dll
+/home/pedro/Workspace/csharp/bin/Debug/net6.0/csharp.pdb
+/home/pedro/Workspace/csharp/obj/Debug/net6.0/csharp.dll
+/home/pedro/Workspace/csharp/obj/Debug/net6.0/csharp.pdb
+/home/pedro/Workspace/csharp/obj/Debug/net6.0/csharp.genruntimeconfig.cache
+/home/pedro/Workspace/csharp/obj/Debug/net6.0/ref/csharp.dll
+/home/pedro/Workspace/csharp/bin/Debug/net6.0/ref/csharp.dll
